@@ -50,6 +50,12 @@ OSX:
 .. code:: bash
 
     brew install snappy
+    
+CENTOS:
+
+.. code:: bash
+
+    yum install snappy snappy-devel
 
 From Source:
 
